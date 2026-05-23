@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+__pycache__/
+*.pdf
+
+# Databases
+backend/chroma_db/
+
+# Security (NEVER UPLOAD PASSWORDS)
+.env
+
+# Node
+frontend/node_modules/
+
+# Mac system files
+.DS_Store
